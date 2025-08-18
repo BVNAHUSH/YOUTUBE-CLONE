@@ -17,7 +17,7 @@ themeToggle.addEventListener('click', () => {
 });
 
 // API key and endpoints
-const API_KEY = "AIzaSyA6dnFYcZUFdutxq0gAuyJ1scHBDq_NGeI";
+const API_KEY = "Your API KEY";
 const VIDEO_HTTP = "https://www.googleapis.com/youtube/v3/videos?";
 const CHANNEL_HTTP = "https://www.googleapis.com/youtube/v3/channels?";
 const SEARCH_HTTP = "https://www.googleapis.com/youtube/v3/search?";
@@ -388,4 +388,5 @@ document.querySelectorAll('.filter-options').forEach(button => {
         const categoryId = categoryMap[button.textContent] || '0';
         fetchTrendingVideos(categoryId);
     });
+
 });
